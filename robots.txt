@@ -1,0 +1,1 @@
+Sitemap: https://lucasberndsen.github.io/dynamic_report/sitemap.xml
